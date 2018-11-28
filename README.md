@@ -17,10 +17,11 @@ Now I’ve gotten all of the boards glued up and ready to assemble at home.
 
 
 To put the box together I used a great simple dowelit tool to put everything together.  
-
+()[https://github.com/metzger-workshops/The-north-loop-hutch/blob/master/photos/IMG_20181109_005515.jpg?raw=true]
 ### Result
 
 Really happy with how this all turned out. If I made another one I know what I would do differently. Not really in design specs, but on how to put it all together to save time and headache. 
 
-In the deigns I made I had considered making a back-brass rail for the books to be pushed against so they don’t fall behind the hutch. I may make another post of bending brass and using a tap and die to create threaded metal parts so they all fit together snuggly. 
+
+I had considered making a back-brass rail for the books to be pushed against, so they don’t fall behind the hutch. I may make another post about bending brass and using a tap and die to create threaded metal parts if I do end up making it.
 
