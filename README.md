@@ -5,6 +5,7 @@ Over the last few weeks I’ve been spending my nights working on a new hutch fo
 ### Planning
 After messing around with wood working the last year, I’ve realized the importance of planning. A simple sketch of an idea can help with playing around with the design once you start building. If you do end up changing the design during the build and you have plans it’s a change from what you know so it’s a lot easier to quickly make the modifications.
 Here is the mockup of the design using SketchUp. 
+<img style="float:right" src="https://github.com/metzger-workshops/The-north-loop-hutch/blob/master/photos/design.jpg" width=50%  align=”right”>
 
 After that was done and I had to decide on the material. I decided on natural maple. I love darker colors, but I wanted to build a piece that lightens the space and since it’s already fairly dark in my house going for a lighter tone made sense. 
 
@@ -17,7 +18,7 @@ Now I’ve gotten all of the boards glued up and ready to assemble at home.
 
 
 To put the box together I used a great simple dowelit tool to put everything together.  
-<img src="https://github.com/metzger-workshops/The-north-loop-hutch/blob/master/photos/IMG_20181109_005515.jpg" width=50%  align=”right”>
+<img src="https://github.com/metzger-workshops/The-north-loop-hutch/blob/master/photos/box-complete-with-frames.jpg" width=50%  align=”right”>
 
 ### Result
 
