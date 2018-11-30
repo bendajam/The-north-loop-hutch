@@ -17,7 +17,7 @@ Now I’ve gotten all of the boards glued up and ready to assemble at home.
 
 
 To put the box together I used a great simple dowelit tool to put everything together.  
-<img url="https://github.com/metzger-workshops/The-north-loop-hutch/blob/master/photos/IMG_20181109_005515.jpg" height=250 width=250>
+<img src="https://github.com/metzger-workshops/The-north-loop-hutch/blob/master/photos/IMG_20181109_005515.jpg" width=50%  align=”right”>
 
 ### Result
 
